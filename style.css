@@ -4,7 +4,7 @@
 --branco:#FFFFFF;
 }
 .cabecalho{
-    background-color: var(--ciano);
+    background-color: var(--preto);
     color: var(--ciano));
     display: flex;
     justify-content: space-around;
