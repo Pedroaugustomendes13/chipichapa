@@ -3,14 +3,14 @@
 --ciano:#7EBB97;
 --branco:#FFFFFF;
 }
-.cabecalho{
+.imagem-cabecalho{
     background-color: var(--ciano);
     color: var(--ciano));
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 10px;
+    padding: 24px;
 }
-.cabecalho{
-    width: 10px;
+.imagem-cabecalho{
+    width: 100px;
 }
