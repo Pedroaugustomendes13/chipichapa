@@ -3,7 +3,7 @@
 --ciano:#7EBB97;
 --branco:#FFFFFF;
 }
-.imagem-cabecalho{
+.cabecalho{
     background-color: var(--ciano);
     color: var(--ciano));
     display: flex;
