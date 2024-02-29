@@ -8,4 +8,9 @@
     color: var(--branco);
     display: flex;
     justify-content: space-around;
+    align-items: center;
+padding: 24px;
+}
+.cabecalho{
+    width: 100px;
 }
