@@ -22,8 +22,8 @@
     margin: 0 16px;
 }
 .escola-imagem{
-width: 50%;
+width: 10%;
 }
 .escola{
-    background-image:-linear-gradient(#000000 #7EBB97);
+    background-image:-linear-gradient(#000000, #7EBB97);
 }
