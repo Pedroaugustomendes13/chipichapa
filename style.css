@@ -1,12 +1,15 @@
-* {margin: 0;
+* {
+    margin: 0;
     padding: 0;
 }
-:root{
---preto:#000000;
---ciano:#7EBB97;
---branco:#FFFFFF;
+
+:root {
+    --preto: #000000;
+    --ciano: #7EBB97;
+    --branco: #FFFFFF;
 }
-.cabecalho{
+
+.cabecalho {
     background-color: var(--ciano);
     color: var(--ciano));
     display: flex;
@@ -14,16 +17,20 @@
     align-items: center;
     padding: 24px 0;
 }
-.imagem-cabecalho{
+
+.imagem-cabecalho {
     width: 100px;
 }
-.itemlistacabecalho{
+
+.itemlistacabecalho {
     display: inline-block;
     margin: 0 16px;
 }
-.escola-imagem{
-width: 10%;
+
+.escola-imagem {
+    width: 10%;
 }
-.escola{
-    background-image:-linear-gradient(#000000, #7EBB97);
+
+.escola {
+    background-image: linear-gradient(#000000, #7EBB97);
 }
