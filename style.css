@@ -1,3 +1,6 @@
+*{margin: 0;
+    padding: 0;
+}
 :root{
 --preto:#000000;
 --ciano:#7EBB97;
