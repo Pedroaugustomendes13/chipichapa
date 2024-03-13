@@ -37,6 +37,7 @@
     display: flex;
     align-items: center;
     color: var(--branco);
+    padding-left: 15%;
 }
 .escola-div-conteudo{
     width: 65%;
