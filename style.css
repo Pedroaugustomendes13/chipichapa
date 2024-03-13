@@ -20,7 +20,7 @@
 
 .imagem-cabecalho {
     width: 100px;
-    color: var(--branco);
+
 }
 
 .itemlistacabecalho {
@@ -43,4 +43,8 @@
 }
 .escolain{
     padding: 24px 0;
+}
+.itemlistacabecalho
+{
+    color: var(--branco);
 }
