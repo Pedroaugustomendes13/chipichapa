@@ -53,8 +53,10 @@
     width: 140px;
 }
 .estudanteicone{
-    width: 24px
+    width: 24px;
+    padding: 4px 8px
 }
 .estudante{
     text-align: center;
-}''''''''''''''''
+    padding: 10px 0px;
+}
