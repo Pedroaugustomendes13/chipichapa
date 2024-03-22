@@ -54,12 +54,12 @@
 
 .estudante-imagem {
     width: 120px;
+    background-color: #7EBB97;
 }
 
 .estudanteicone {
     width: 24px;
     padding: 4px 8px;
-    background-color: #7EBB97;
 }
 
 .estudante {
